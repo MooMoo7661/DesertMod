@@ -1,0 +1,93 @@
+Items: {
+	WorldgenItem: {
+		DisplayName: Worldgen Item
+		Tooltip: ""
+	}
+
+	RollingCactusPetItem: {
+		DisplayName: Rolling Cactus Pet Item
+		Tooltip: ""
+	}
+}
+
+Buffs: {
+	RollingCactusPetBuff: {
+		DisplayName: Rolling Cactus Pet Buff
+		Description: Mods.DesertMod.Buffs.RollingCactusPetBuff.Description
+	}
+}
+
+Projectiles.RollingCactusPet.DisplayName: Rolling Cactus Pet
+
+Configs: {
+	DesertModConfig: {
+		DisplayName: Config
+
+		EveryNPCIsCactus: {
+			Label: Every NPC and enemy is a cactus
+			Tooltip:
+				'''
+				Enable / Disable every enemy from having their texture as a rolling cactus.
+				(Default OFF)
+				'''
+		}
+
+		HomingType: {
+			Label: Rolling Cactus Homing Type
+			Tooltip:
+				'''
+				1: Naturally Spawned / placed Cacti
+				2: All Cacti
+				3: No Cacti
+				(Default 3)
+				'''
+		}
+
+		BossTexturesAreCactus: {
+			Label: Enable boss textures being a cactus
+			Tooltip:
+				'''
+				Enable / Disable bosses having their texture as a rolling cactus.
+				Reccomended to keep on, as it is quite entertaining.
+				(Default ON)
+				'''
+		}
+
+		SpecialWorldgen: {
+			Label: Special Worldgen
+			Tooltip:
+				'''
+				Enable / Disable converting dirt to sand, stone to sandstone, dirt walls to sandstone walls,
+				Ash to sand and sandstone, painting certain structures, and placing extra underground deserts.
+				(Default ON)
+				'''
+		}
+
+		PaintDungeon: {
+			Label: Paint dungeon
+			Tooltip:
+				'''
+				Enable / Disable painting the dungeon yellow on world creation.
+				(Default ON)
+				'''
+		}
+
+		PaintHives: {
+			Label: Paint hives
+			Tooltip:
+				'''
+				Enable / Disable painting hives yellow on world creation.
+				(Default ON)
+				'''
+		}
+
+		PaintTemple: {
+			Label: Paint temple
+			Tooltip:
+				'''
+				Enable / Disable painting the temple yellow on world creation.
+				(Default ON)
+				'''
+		}
+	}
+}

@@ -1,0 +1,11 @@
+This mod makes most of the surface generate as a desert, and creates a bunch of underground deserts throughout the world.
+Only for those who are looking for pain and suffering, and to die to rolling cacti every 10 seconds.
+Sand also will not fall if there is more sand above it, helping a little with keeping you sane.
+There are several config options to maximize pain, or to just be funny.
+
+If by chance the world fails to generate, (an error appears,) try and re-generate the world.
+If the issue persists, contact me on Discord. MooMoo#6969 (moomoo.dll) through the TmodLoader discord.
+
+There may be some odd spots in the world, due to this being my first worldgen mod, and because of how oddly sand interacts with the world.
+
+Thanks to several members of the TmodLoader discord for helping me with certain worldgen stuff.
